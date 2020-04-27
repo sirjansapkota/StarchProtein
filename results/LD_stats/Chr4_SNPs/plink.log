@@ -1,0 +1,36 @@
+PLINK v1.90b4 32-bit (20 Mar 2017)
+Options in effect:
+  --file /panicle/ssapkot/git_repo/StarchProtein/data/SAP_GS_SNPs
+  --ld-snp S4_64019590
+  --ld-window 99999
+  --ld-window-kb 100
+  --ld-window-r2 0
+  --maf 0.05
+  --make-founders
+  --r2
+
+Hostname: login001
+Working directory: /panicle/ssapkot/git_repo/StarchProtein/results/LD_stats/Chr4_SNPs
+Start time: Thu Apr  9 11:26:22 2020
+
+Random number seed: 1586445982
+257640 MB RAM detected; reserving 2047 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (224007 variants, 389 people).
+--file: plink-temporary.bed + plink-temporary.bim + plink-temporary.fam
+written.
+224007 variants loaded from .bim file.
+389 people (0 males, 0 females, 389 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to plink.nosex .
+Using up to 47 threads (change this with --threads).
+--make-founders: 389 samples affected.
+Before main variant filters, 389 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.966866.
+167082 variants removed due to minor allele threshold(s)
+(--maf/--max-maf/--mac/--max-mac).
+56925 variants and 389 people pass filters and QC.
+Note: No phenotypes present.
+--r2 to plink.ld ... done.
+
+End time: Thu Apr  9 11:26:24 2020

@@ -1,0 +1,52 @@
+##
+## GEMMA Version = 0.94
+##
+## Command Line Input = -bfile /panicle/ssapkot/git_repo/StarchProtein/data/SAP_GS_SNPs -d /panicle/ssapkot/git_repo/StarchProtein/data/SAP_EigenValues.txt -u /panicle/ssapkot/git_repo/StarchProtein/data/SAP_EigenVectors.txt -maf 0.02 -lmm 4 -n 1 2 -o /SAP_GS_maf0.02_MV-SP 
+##
+## Summary Statistics:
+## number of total individuals = 389
+## number of analyzed individuals = 389
+## number of covariates = 1
+## number of phenotypes = 2
+## number of total SNPs = 224007
+## number of analyzed SNPs = 81493
+## REMLE log-likelihood in the null model = -985.37
+## MLE log-likelihood in the null model = -985.28
+## REMLE estimate for Vg in the null model: 
+0.269976	
+-0.378453	1.67797	
+## se(Vg): 
+0.0606877	
+0.0949749	0.20505	
+## REMLE estimate for Ve in the null model: 
+0.306459	
+-0.348831	0.477	
+## se(Ve): 
+0.0522632	
+0.0731293	0.123209	
+## MLE estimate for Vg in the null model: 
+0.274006	-0.379253	
+-0.379253	1.70771	
+## se(Vg): 
+0.0615178	
+0.0962164	0.209002	
+## MLE estimate for Ve in the null model: 
+0.301844	-0.347126	
+-0.347126	0.457482	
+## se(Ve): 
+0.0523845	
+0.0731776	0.121959	
+## estimate for B (d by c) in the null model (columns correspond to the covariates provided in the file): 
+-0.00361413	
+0.021616	
+## se(B): 
+0.028068	
+0.0350174	
+##
+## Computation Time:
+## total computation time = 13.3815 min 
+## computation time break down: 
+##      time on eigen-decomposition = 0 min 
+##      time on calculating UtX = 0.049 min 
+##      time on optimization = 13.2362 min 
+##

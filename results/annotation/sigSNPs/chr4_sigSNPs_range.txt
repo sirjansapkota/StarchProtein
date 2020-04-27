@@ -1,0 +1,4 @@
+MarkerName,Chromosome,Pos_highest,Start,End
+StartProtein_sig,4,60623675,60621675,60625675
+StartProtein_sig,4,63400335,63398335,63402335
+StartProtein_sig,4,64019590,64017590,64021590
